@@ -12,3 +12,14 @@ h1{
 body {
     background: #CCCCCC;
     }
+    body {
+        background: #CCCCCC
+    }
+    
+    p {
+        text-align: center;
+    }
+    
+    em strong {
+        color: #FF0000;
+    }
