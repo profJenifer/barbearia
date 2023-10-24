@@ -1,11 +1,6 @@
-body {
-    background: #CCCCCC
-}
-
-p {
+#titulo {
     text-align: center;
 }
-
-em strong {
-    color: #FF0000;
+text {
+    color: red 
 }
